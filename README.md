@@ -8,6 +8,7 @@ To download stb_image.h and stb_image_write.h  libraries, navigate to either the
 wget https://raw.githubusercontent.com/nothings/stb/master/stb_image.h
 wget https://raw.githubusercontent.com/nothings/stb/master/stb_image_write.h 
 
+
 ###SEQ
 In the sequential folder run:
 gcc o <your_output_file> <your_C_File_name.c> -lm -ljpeg
